@@ -87,9 +87,11 @@
 
         <div class="section-title">
           <h2>About</h2>
-          <p>Mohamed Josef , from the University of Palestine, majoring in information technology, is a web developer in the language of node.js and I work with Express Frame . I have completed several projects such as electronic commerce , news applications, chat applications and social media.
+          <p>Mohamed Josef , from the University of Palestine, majoring in information technology,<br />
+           I am a web developer Node.js and I work with Express Frame . <br />
+           I have completed several projects such as electronic commerce , news applications, chat applications and social media.<br />
 I can do your business professionally and with perfection within a distinctive work mechanism ... where we share creativity with you.</p>
-        </div>
+        <br /><br /></div>
 
         <div class="row">
           <div class="col-lg-4" data-aos="fade-right">
@@ -285,9 +287,9 @@ I can do your business professionally and with perfection within a distinctive w
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/Ecommerce.png" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/smartmockups_kfglu95z.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/Ecommerce.png" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/smartmockups_kfglu95z.jpg" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
                 <a href="https://ecommerc-app.herokuapp.com" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -295,9 +297,9 @@ I can do your business professionally and with perfection within a distinctive w
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/maba.png" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/smartmockups_kfglz5u1.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/maba.png" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/smartmockups_kfglz5u1.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
                 <a href="https://maba-app.herokuapp.com" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -305,9 +307,9 @@ I can do your business professionally and with perfection within a distinctive w
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/social.png" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/smartmockups_kfglab8i.png" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/social.png" data-gall="portfolioGallery" class="venobox" title="App 2"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/smartmockups_kfglab8i.png" data-gall="portfolioGallery" class="venobox" title="App 2"><i class="bx bx-plus"></i></a>
                 <a href="https://face-boo-k-app.herokuapp.com" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -503,7 +505,7 @@ I can do your business professionally and with perfection within a distinctive w
           </div>
 
           <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
-            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+            <form action="/" method="post" role="form" class="php-email-form">
               <div class="row">
                 <div class="form-group col-md-6">
                   <label for="name">Your Name</label>
@@ -523,7 +525,7 @@ I can do your business professionally and with perfection within a distinctive w
               </div>
               <div class="form-group">
                 <label for="name">Message</label>
-                <textarea class="form-control" name="message" rows="10" data-rule="required" data-msg="Please write something for us"></textarea>
+                <textarea class="form-control" name="msg" rows="10" data-rule="required" data-msg="Please write something for us"></textarea>
                 <div class="validate"></div>
               </div>
               <div class="mb-3">
