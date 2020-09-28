@@ -59,9 +59,9 @@
         <ul>
           <li class="active"><a href="#hero"><i class="bx bx-home"></i> <span>Home</span></a></li>
           <li><a href="#about"><i class="bx bx-user"></i> <span>About</span></a></li>
-          <li><a href="#resume"><i class="bx bx-file-blank"></i> <span>Resume</span></a></li>
+         @*  <li><a href="#resume"><i class="bx bx-file-blank"></i> <span>Resume</span></a></li> *@
           <li><a href="#portfolio"><i class="bx bx-book-content"></i> Portfolio</a></li>
-          <li><a href="#services"><i class="bx bx-server"></i> Services</a></li>
+          @* <li><a href="#services"><i class="bx bx-server"></i> Services</a></li> *@
           <li><a href="#contact"><i class="bx bx-envelope"></i> Contact</a></li>
 
         </ul>
@@ -198,6 +198,7 @@ I can do your business professionally and with perfection within a distinctive w
     </section><!-- End Skills Section -->
 
     <!-- ======= Resume Section ======= -->
+    <!-- 
     <section id="resume" class="resume">
       <div class="container">
 
@@ -261,7 +262,8 @@ I can do your business professionally and with perfection within a distinctive w
         </div>
 
       </div>
-    </section><!-- End Resume Section -->
+    </section>-->
+    <!-- End Resume Section -->
 
     <!-- ======= Portfolio Section ======= -->
     <section id="portfolio" class="portfolio section-bg">
@@ -353,6 +355,7 @@ I can do your business professionally and with perfection within a distinctive w
     </section><!-- End Portfolio Section -->
 
     <!-- ======= Services Section ======= -->
+    <!--
     <section id="services" class="services">
       <div class="container">
 
@@ -395,9 +398,11 @@ I can do your business professionally and with perfection within a distinctive w
         </div>
 
       </div>
-    </section><!-- End Services Section -->
+    </section>-->
+    <!-- End Services Section -->
 
     <!-- ======= Testimonials Section ======= -->
+    <!--
     <section id="testimonials" class="testimonials section-bg">
       <div class="container">
 
@@ -466,7 +471,9 @@ I can do your business professionally and with perfection within a distinctive w
         </div>
 
       </div>
-    </section><!-- End Testimonials Section -->
+    </section>
+    -->
+    <!-- End Testimonials Section -->
 
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
@@ -505,7 +512,7 @@ I can do your business professionally and with perfection within a distinctive w
           </div>
 
           <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
-            <form action="/" method="post" role="form" class="php-email-form">
+            <form action="#" method="post" role="form" class="php-email-form">
               <div class="row">
                 <div class="form-group col-md-6">
                   <label for="name">Your Name</label>
