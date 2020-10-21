@@ -35,7 +35,7 @@ sgMail
     console.error(error)
   })
 
-  res.send('Your message has been sent. Thank you! <br /><a href="/"><div class="text-center"><button type="submit">Back</button></div></a>')
+  res.send('<h2>Your message has been sent. Thank you! </h2><br /><a href="/"><div class="text-center"><button type="submit">Back</button></div></a>')
     // res.redirect("/");
 });
 
