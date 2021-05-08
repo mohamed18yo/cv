@@ -48,7 +48,7 @@
         <img src="assets/img/sp - Copy.png" alt="" class="img-fluid rounded-circle" style="
     width: 164px;
 ">
-        <h1 class="text-light"><a href="#">Mohamed Abu khater</a></h1>
+        <a href="#"><h1 class="text-light">Mohamed Abu khater</h1></a>
         <div class="social-links mt-3 text-center">
           <a href="https://twitter.com/Mohamed19yosef" target="_blank" class="twitter"><i class="bx bxl-twitter"></i></a>
           <a href="https://www.facebook.com/mhmad21gasa/" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
